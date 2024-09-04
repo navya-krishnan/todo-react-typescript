@@ -1,0 +1,12 @@
+{
+    "header": "My Todo",
+    "pivots": {
+        "taskList": "To Complete",
+        "taskForm": "Create Task",
+        "taskComplete": "Completed"
+    },
+    "addTaskBtn": "Add Task",
+    "updateTaskBtn":"Update Task",
+    "deleteConfirm":"Are you sure you want to delete?",
+    "editConfirm":"Are you sure you want to edit?"
+}
